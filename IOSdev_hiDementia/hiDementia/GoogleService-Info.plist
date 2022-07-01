@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>873309771878-85apa0sf08qdvsb1calr8klbiba86ghs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.873309771878-85apa0sf08qdvsb1calr8klbiba86ghs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNMBAF5lEcQPd3GHDACkVAbsCJXQ_AYi4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>873309771878</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>polina.hiDementia</string>
+	<key>PROJECT_ID</key>
+	<string>hidementia-4cf8a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hidementia-4cf8a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:873309771878:ios:27a32ee8d7de0ed050f5a7</string>
+	<key>DATABASE_URL</key>
+	<string>https://hidementia-4cf8a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
